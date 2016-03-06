@@ -35,8 +35,7 @@ If you need help with installing a library check out the [installation guide](ht
 
 Pinout
 ---
-(![TinyGlo+ Pinout](https://ksr-ugc.imgix.net/assets/004/937/344/ad3340cfb9fb9c92a294b45c243afd04_original.jpg?v=1447867260&w=680&fit=max&auto=format&q=92&s=c7834817c749eeeb63051a1d35844c78)
-
+![TinyGlo+ Pinout](https://ksr-ugc.imgix.net/assets/004/937/344/ad3340cfb9fb9c92a294b45c243afd04_original.jpg?v=1447867260&w=680&fit=max&auto=format&q=92&s=c7834817c749eeeb63051a1d35844c78)
 
 Acknowledgements
 ---
